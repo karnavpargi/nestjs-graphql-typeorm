@@ -1,0 +1,7 @@
+{
+  "cSpell.words": ["nestjs", "typeorm"],
+  "editor.formatOnSave": true,
+  "prettier.printWidth": 140,
+  "prettier.singleQuote": true,
+  "editor.codeActionsOnSave": { "source.fixAll.eslint": true, "source.organizeImports": true }
+}
